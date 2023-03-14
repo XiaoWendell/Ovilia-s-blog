@@ -1,6 +1,6 @@
-# Blog of Wenli Zhang
+# Blog
 
-Blog: http://zhangwenli.com/blog.
+Blog of Wenli Zhang: http://zhangwenli.com/blog.
 
 Topics: Web Front-End Developing and More.
 
